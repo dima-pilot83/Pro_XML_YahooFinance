@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng" yahoo:count="2" yahoo:created="2016-11-18T14:00:25Z" yahoo:lang="en-US">
+  <results>
+    <rate id="USDEUR">
+      <Name>USD/EUR</Name>
+      <Rate>0.9422</Rate>
+      <Date>11/18/2016</Date>
+      <Time>2:00pm</Time>
+      <Ask>0.9427</Ask>
+      <Bid>0.9422</Bid>
+    </rate>
+    <rate id="USDUAH">
+      <Name>USD/UAH</Name>
+      <Rate>25.9700</Rate>
+      <Date>11/18/2016</Date>
+      <Time>4:27am</Time>
+      <Ask>26.2200</Ask>
+      <Bid>25.9700</Bid>
+    </rate>
+  </results>
+</query><!-- total: 6 --><!-- prod_bf1_1;paas.yql;queryyahooapiscomproductionbf1;3b58572e-ab74-11e6-b5e7-d4ae52974741 -->
